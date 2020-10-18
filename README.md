@@ -1,2 +1,2 @@
-Mi seguna vez
+Mi segunda vez
 # conectandohtmlphp
